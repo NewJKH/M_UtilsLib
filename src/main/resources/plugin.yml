@@ -1,0 +1,4 @@
+name: UtilsLib
+version: '1.0.0'
+main: org.nano.utilsLib.UtilsLib
+api-version: '1.21'
